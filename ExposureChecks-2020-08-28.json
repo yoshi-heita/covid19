@@ -1,0 +1,707 @@
+{
+  "Build" : "17G80",
+  "ExportVersion" : 1,
+  "ExposureChecks" : [
+    {
+      "Hash" : "07DCDDDA80E4C2E83E434CD18F6D8763A6E2492DCDF10CAB9CCF8EE0AE30C60D",
+      "RandomIDCount" : 28,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-22 00:10:50 +0900"
+    },
+    {
+      "Hash" : "3A06C91F37C4E9B54CCEC966503E581DC053F89189DB2D542F44959198AA95E3",
+      "RandomIDCount" : 30,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-22 00:10:50 +0900"
+    },
+    {
+      "Hash" : "2C2C2B52220F8887FF353CB62C2354C4E6B5D42CEFA022FB888634E493E41D25",
+      "RandomIDCount" : 24,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-22 00:10:50 +0900"
+    },
+    {
+      "Hash" : "55D0124813C38D2A35064C67A13A82BC0D9D880F5FA7C988F945471671199228",
+      "RandomIDCount" : 24,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-22 00:10:50 +0900"
+    },
+    {
+      "Hash" : "B42E113186165ADC72CE5EE3B4D853E4C0B0C193B1BD86191982F61DC08DD155",
+      "RandomIDCount" : 1,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-22 00:10:50 +0900"
+    },
+    {
+      "Hash" : "4A404E3BC9AD2157F7183BCA639971D2639454F367CBDA7875FBBC6A8AE216EE",
+      "RandomIDCount" : 1,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-22 00:10:50 +0900"
+    },
+    {
+      "Hash" : "6DEC65486A6C910B6667FBECD47A5FD89141C5E75586E74C0CF9EC0B70A5279B",
+      "RandomIDCount" : 1,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-22 00:10:50 +0900"
+    },
+    {
+      "Hash" : "9EA666A2C35B20CA810ECBB7094884E6B794BEDEAA116E9E34CDD5658A47B691",
+      "RandomIDCount" : 1,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-22 00:10:50 +0900"
+    },
+    {
+      "Hash" : "382082D0C46E99179103034D24914268905945945829FE16C9BEF64CA213C1A4",
+      "RandomIDCount" : 1,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-22 00:10:50 +0900"
+    },
+    {
+      "Hash" : "EEDEDAC4EE31AE28667B6893BC2649F71C4A0493C38DFBE5F05DE26157557175",
+      "RandomIDCount" : 11,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-23 08:12:05 +0900"
+    },
+    {
+      "Hash" : "80CDF379C4F7776ECB9F0B13CA0D5FC0B1CC0CC7D932F9825FD0F9AE9B6ABBA6",
+      "RandomIDCount" : 10,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-23 08:12:05 +0900"
+    },
+    {
+      "Hash" : "0BB4A46B08BF59C9A9BED1B87AE10F3055B374D3DD1AADFBCA5CC555CC8756AE",
+      "RandomIDCount" : 10,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-23 08:12:05 +0900"
+    },
+    {
+      "Hash" : "4473D3A135245773A116216F5B81A650A455F5F61BBE13A564456433A5A8F180",
+      "RandomIDCount" : 9,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-23 08:12:05 +0900"
+    },
+    {
+      "Hash" : "4354837F34166EEF531B60F1FD55812B2ECD8D2D20C3C47D4BC5AA53EECE0823",
+      "RandomIDCount" : 9,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-23 08:12:05 +0900"
+    },
+    {
+      "Hash" : "BBA3BDFEA279997794C05127B2CE873C2E0639A93EDA2E3A1F6A71E0EB2F8558",
+      "RandomIDCount" : 9,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-23 08:12:05 +0900"
+    },
+    {
+      "Hash" : "A52025B2145821EC1CC7166386F30D75E9AC17963E1B7CBF773579B407F3044A",
+      "RandomIDCount" : 8,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-23 08:12:05 +0900"
+    },
+    {
+      "Hash" : "D3F100D17E7979D71D8CC3824FD65EEED2D71E3F2B1DFF6FC222EF3108AF0E2B",
+      "RandomIDCount" : 8,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-23 08:12:05 +0900"
+    },
+    {
+      "Hash" : "8198400E22C6A5BAB795DE891BD04B5DE8088553072176D38199EFC660BBEB07",
+      "RandomIDCount" : 8,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-23 08:12:05 +0900"
+    },
+    {
+      "Hash" : "B0CFF5ED5268066D73C6FF0C8E00806BA4158CC1A4BF09A6385096D142DB4E77",
+      "RandomIDCount" : 8,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-23 08:12:05 +0900"
+    },
+    {
+      "Hash" : "DDD5B3AC06C64C08BED13AE3562423393E114A37B79FABBF9E74C0FEE555BA90",
+      "RandomIDCount" : 8,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-23 08:12:05 +0900"
+    },
+    {
+      "Hash" : "2F6DC6159A2CAB50F08AEA2AA34DB03279317CB151244DE4D9E63FE89A31481E",
+      "RandomIDCount" : 8,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-23 08:12:05 +0900"
+    },
+    {
+      "Hash" : "F0F5A7677D8C214BB423B02B18C5C15BBBA51E4BCC3F2F3B18583113E54A8511",
+      "RandomIDCount" : 8,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-23 08:12:05 +0900"
+    },
+    {
+      "Hash" : "C57F3645ACEF86BBE4B1F18BA695763C48CF18CDC688B58933D07086C02BC950",
+      "RandomIDCount" : 4,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "89941707F7963A5D5F7A25AC0EE10C290348D36B7F3105102E78485C821951DD",
+      "RandomIDCount" : 4,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "1B3EE418F6DE444BC6AC9BBE76022E534C62A596A6F13FA63C00B67947D5B007",
+      "RandomIDCount" : 4,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "26892A0CD4BE213E6A177BD7F4778243B03E84D684D10DA140C383563F2E92A4",
+      "RandomIDCount" : 5,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "66B29B46F51C5C1B5792DB013F2D394131A03F9FF11E4FD874188A29E39D9CA6",
+      "RandomIDCount" : 5,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "A76A2CD0B19DCE616122ECB4AD6877DF8CDF8C7EB1FD50C0B6B32F6FBDC62CF3",
+      "RandomIDCount" : 5,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "F91108CF5E9B2DEE0FD25C070320C18727557D1D8EAF2E579E7D12299A2B43D1",
+      "RandomIDCount" : 7,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "81FAE4B9376D6FF00B0B5771E1D40D4F90F60FF2FF59407B48E28EE0CC49FC86",
+      "RandomIDCount" : 7,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "9F6D8AB6DAA42F300AE8171BE274C57C4448D6C99FDEE14665C8EA86D2536885",
+      "RandomIDCount" : 7,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "2E798431690C2955AC64CF5753ECFD1A69362E4EAB58FFC690D76E0141E81591",
+      "RandomIDCount" : 6,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "43912325461180562696058848B6F3FC35095C9CA3816D1313044B9B779F0E96",
+      "RandomIDCount" : 8,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "12F9A691940B3D9E3FFEF69DD61803DE85FA6B0204455E3C1E6656E4282E45E9",
+      "RandomIDCount" : 7,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "7286FA5BEDB67F9EAF7D3732CD41772610A8F2A94C2A23BC1C614DC143C7B0D8",
+      "RandomIDCount" : 7,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "C57F3645ACEF86BBE4B1F18BA695763C48CF18CDC688B58933D07086C02BC950",
+      "RandomIDCount" : 4,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "89941707F7963A5D5F7A25AC0EE10C290348D36B7F3105102E78485C821951DD",
+      "RandomIDCount" : 4,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "1B3EE418F6DE444BC6AC9BBE76022E534C62A596A6F13FA63C00B67947D5B007",
+      "RandomIDCount" : 4,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "26892A0CD4BE213E6A177BD7F4778243B03E84D684D10DA140C383563F2E92A4",
+      "RandomIDCount" : 5,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "66B29B46F51C5C1B5792DB013F2D394131A03F9FF11E4FD874188A29E39D9CA6",
+      "RandomIDCount" : 5,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "A76A2CD0B19DCE616122ECB4AD6877DF8CDF8C7EB1FD50C0B6B32F6FBDC62CF3",
+      "RandomIDCount" : 5,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "F91108CF5E9B2DEE0FD25C070320C18727557D1D8EAF2E579E7D12299A2B43D1",
+      "RandomIDCount" : 7,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "81FAE4B9376D6FF00B0B5771E1D40D4F90F60FF2FF59407B48E28EE0CC49FC86",
+      "RandomIDCount" : 7,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "9F6D8AB6DAA42F300AE8171BE274C57C4448D6C99FDEE14665C8EA86D2536885",
+      "RandomIDCount" : 7,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "2E798431690C2955AC64CF5753ECFD1A69362E4EAB58FFC690D76E0141E81591",
+      "RandomIDCount" : 6,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "43912325461180562696058848B6F3FC35095C9CA3816D1313044B9B779F0E96",
+      "RandomIDCount" : 8,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "12F9A691940B3D9E3FFEF69DD61803DE85FA6B0204455E3C1E6656E4282E45E9",
+      "RandomIDCount" : 7,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "7286FA5BEDB67F9EAF7D3732CD41772610A8F2A94C2A23BC1C614DC143C7B0D8",
+      "RandomIDCount" : 7,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-24 02:33:08 +0900"
+    },
+    {
+      "Hash" : "7DE831A2C97F882EDEAE8B326D795E4E1DBBAEAA66632A99533C81B59541AA4F",
+      "RandomIDCount" : 26,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-25 00:05:19 +0900"
+    },
+    {
+      "Hash" : "9E8D5CC7B8DFE0DF0F11F5073C5914456883DB7D85D67D95889AD0B9CDA13827",
+      "RandomIDCount" : 26,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-25 00:05:19 +0900"
+    },
+    {
+      "Hash" : "938141C296F8C5AFC5F2B8D9EF893B60BC1415C21F1E867892397A576E07BD05",
+      "RandomIDCount" : 23,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-25 00:05:19 +0900"
+    },
+    {
+      "Hash" : "ADE552F8072D0EB1803A9574172B5385DA9FAB628CDC0689398B7249A33595BA",
+      "RandomIDCount" : 22,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-25 00:05:19 +0900"
+    },
+    {
+      "Hash" : "977BE56A39F6D226220B46888F64BFA24F75D3BF4154AB1AE4BAF811ACD1D50E",
+      "RandomIDCount" : 22,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-25 00:05:19 +0900"
+    },
+    {
+      "Hash" : "2CB331AE194FD762AEB2950235462F2C4794D60B0424EA78A1FD03198742272C",
+      "RandomIDCount" : 22,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-25 00:05:19 +0900"
+    },
+    {
+      "Hash" : "ABB1E11F67A51B6680C12A75A37901EBC4E5F1D5F35F043D2CD3A647E123D53A",
+      "RandomIDCount" : 20,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-25 00:05:19 +0900"
+    },
+    {
+      "Hash" : "2BAE61EE72F722CF887C8C225031550E432BFE00E3BB34059525BCFA4AEB7580",
+      "RandomIDCount" : 21,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-25 00:05:19 +0900"
+    },
+    {
+      "Hash" : "9AB78B9720DC79A5EC22FA5B01A7F7A684576A0FDC0FF7EE837843DB4F6ED5FC",
+      "RandomIDCount" : 22,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-25 00:05:19 +0900"
+    },
+    {
+      "Hash" : "1DEF1BD1350526FC989794D120B535D2EFBCD207F168447A0DC58855E040F75F",
+      "RandomIDCount" : 20,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-25 00:05:19 +0900"
+    },
+    {
+      "Hash" : "BA9A4109038A5C828AB84E0C1CDFB2D6BA9E197E461A247790AFA5A9B154F779",
+      "RandomIDCount" : 18,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-25 00:05:19 +0900"
+    },
+    {
+      "Hash" : "A23C2968E67943CD5034EDD5D46BE7EDCE4DE39640C6C7F013D36E6ACFD1696F",
+      "RandomIDCount" : 21,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-25 00:05:19 +0900"
+    },
+    {
+      "Hash" : "57005606848C28F49D2591CD960F43D9230F4BD1547D3D3799712BE87592360E",
+      "RandomIDCount" : 20,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-25 00:05:19 +0900"
+    },
+    {
+      "Hash" : "47246A9DC49055186F9FD7D7EC59BAE8B8AB3B4BB49C43262910B1AA80C38E77",
+      "RandomIDCount" : 25,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-26 00:40:46 +0900"
+    },
+    {
+      "Hash" : "181E1C500C1EC3DEB12543B84DF4220EE66B7B31D5877D79EBE318CEAB5809AD",
+      "RandomIDCount" : 24,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-26 00:40:46 +0900"
+    },
+    {
+      "Hash" : "46DCA496F640A1C8139B2282F9A23B57B4D37049DED29215F5172EDC13D4D244",
+      "RandomIDCount" : 24,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-26 00:40:46 +0900"
+    },
+    {
+      "Hash" : "2EAE5D06A83B2FA550A3320AD6CFC0DF242EFF3FEFED4A4F87B467FD7D35F795",
+      "RandomIDCount" : 22,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-26 00:40:46 +0900"
+    },
+    {
+      "Hash" : "D4C8DC90A64C31183D7F58C50C133780118DFC02718B6F5641EA8304CDF6798B",
+      "RandomIDCount" : 21,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-26 00:40:46 +0900"
+    },
+    {
+      "Hash" : "552C5949B2651C2F07BB979FEDFFA1281DF9BC52FA0A9B63289D919F2FCA731C",
+      "RandomIDCount" : 21,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-26 00:40:46 +0900"
+    },
+    {
+      "Hash" : "3D79F68B87B7F0787FAE001AF4455580434D614357C4AD74C339421E7255C752",
+      "RandomIDCount" : 20,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-26 00:40:46 +0900"
+    },
+    {
+      "Hash" : "4853272AC51C3B36316BCF5ABD0817D297036E2ED3575CF1FE4FAFB60A6C32F1",
+      "RandomIDCount" : 20,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-26 00:40:46 +0900"
+    },
+    {
+      "Hash" : "D0444F8C0B019F80142C3A334F2D447EEF2F02566C0922B2B965A8CEA2F07ADB",
+      "RandomIDCount" : 19,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-26 00:40:46 +0900"
+    },
+    {
+      "Hash" : "E826F5AE1A6919E8DFE2B1BD0C422D4516F8532CFDD0843B04F1DE4ECBC005B6",
+      "RandomIDCount" : 18,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-26 00:40:46 +0900"
+    },
+    {
+      "Hash" : "AF86A1CB41C5C51803FA3D3668B43400A17E4BDF3F0CEE61587A4623F9DABA69",
+      "RandomIDCount" : 18,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-26 00:40:46 +0900"
+    },
+    {
+      "Hash" : "952DF7284057D7124664D16BE98F3D9EF0F2CCAC6792EDC3A8547E80370CE64A",
+      "RandomIDCount" : 18,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-26 00:40:46 +0900"
+    },
+    {
+      "Hash" : "4548DBC18F11A2A73FD4681C54A379B92F32D9F46D1FBF7BDC2A5D5149101AD1",
+      "RandomIDCount" : 18,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-26 00:40:46 +0900"
+    },
+    {
+      "Hash" : "B09EC8F21FCA4FEBBBF4288AC857F30A80399723BAA2C116D79F335536603878",
+      "RandomIDCount" : 31,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-27 00:18:12 +0900"
+    },
+    {
+      "Hash" : "58281922997732D80461622C5100C2D16AB0858ED35AF8C76E70F2734FAA6236",
+      "RandomIDCount" : 30,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-27 00:18:12 +0900"
+    },
+    {
+      "Hash" : "9528AEB44DF48E3B62EAF1113A07514F4C3F013CEC9CE397695FDBD7D00CE57A",
+      "RandomIDCount" : 29,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-27 00:18:12 +0900"
+    },
+    {
+      "Hash" : "8FED5BEBD64E7D2E60D6A63A940B45492BFFB3CEA6B1128E6E6AAD45D33468C0",
+      "RandomIDCount" : 28,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-27 00:18:12 +0900"
+    },
+    {
+      "Hash" : "09AC77BADAB98F168F50E389A3FD30636CAE0A69E9168399B99A4AC8FC0D04AD",
+      "RandomIDCount" : 28,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-27 00:18:12 +0900"
+    },
+    {
+      "Hash" : "D1617718370BC510D06A948FA87E01122615F2AD5E0C516E545AD1D96502E13A",
+      "RandomIDCount" : 27,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-27 00:18:12 +0900"
+    },
+    {
+      "Hash" : "469B99FD5B7C42F37AF0210D0CC8B56CDFEF5AD2D5C19E0C4258A9DEBB7BA62D",
+      "RandomIDCount" : 27,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-27 00:18:12 +0900"
+    },
+    {
+      "Hash" : "7DFBE7461F187B665740D3628B5B6529CC042753A86F2792F41703EA6B4788BA",
+      "RandomIDCount" : 27,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-27 00:18:12 +0900"
+    },
+    {
+      "Hash" : "06EBE28B6CC4A6D2DF64E76574265F5497CDE8B2400A8915A55DE9A33EFEF0CD",
+      "RandomIDCount" : 25,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-27 00:18:12 +0900"
+    },
+    {
+      "Hash" : "029F2F041AFA9203BD4B32F687BF45ED3163E05EB8CB956374DA487221CFC577",
+      "RandomIDCount" : 25,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-27 00:18:12 +0900"
+    },
+    {
+      "Hash" : "2F456FBD643F0B43FF2AC78A6A55342FFBDE3F2D2F2620146A9E50E1A9D5EAA1",
+      "RandomIDCount" : 25,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-27 00:18:12 +0900"
+    },
+    {
+      "Hash" : "298167B13FA579975D8ECCBB829A4DEDF443D5FCEF7CD14C9AF7AA48BBFE44FE",
+      "RandomIDCount" : 25,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-27 00:18:12 +0900"
+    },
+    {
+      "Hash" : "9AC133A0079DBF92460E08750B56EF2B863A58F0826AB44BF3F69C182B62406C",
+      "RandomIDCount" : 33,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-27 00:18:12 +0900"
+    },
+    {
+      "Hash" : "C0C1F6203AD80D2D6B9740CF85D70FE3C0AE81EC97663B095B1F56DD148F02A2",
+      "RandomIDCount" : 38,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-28 21:35:18 +0900"
+    },
+    {
+      "Hash" : "3806160AA604AF5CB98389933D1379057C54BA7CE24CF5EF642DA4B5DF2F05DC",
+      "RandomIDCount" : 36,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-28 21:35:18 +0900"
+    },
+    {
+      "Hash" : "E644E9FE31A8920DF127D07F839467DDF523104AC742312C05463DEEB2F3D372",
+      "RandomIDCount" : 35,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-28 21:35:18 +0900"
+    },
+    {
+      "Hash" : "47AD49525AB4AD7629F0C5FC032595CB0E851E8325F065D627912655D1DD1D07",
+      "RandomIDCount" : 34,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-28 21:35:18 +0900"
+    },
+    {
+      "Hash" : "F0329DFEEEADB4BD0DD03AFC1CD2A0FFEE3F89E26E5E51AE085519DB67F66670",
+      "RandomIDCount" : 31,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-28 21:35:18 +0900"
+    },
+    {
+      "Hash" : "8EB556E7100D01835AB52F6C0D05F3C6242A3F57983D4AA8FF0F8A108AEF0853",
+      "RandomIDCount" : 31,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-28 21:35:18 +0900"
+    },
+    {
+      "Hash" : "AF942CD8EB03D6D1246AC81EC1D2A3CE9F0C97E6C6C9537D8C03EC2FEDAD3153",
+      "RandomIDCount" : 30,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-28 21:35:18 +0900"
+    },
+    {
+      "Hash" : "D34487D4802F7FFDD4EE689ADC19344238D386DF785A52AA4E44C89A3574B11A",
+      "RandomIDCount" : 31,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-28 21:35:18 +0900"
+    },
+    {
+      "Hash" : "4C0046A76F8755FFD1F7F6F881C0D687C120D26FC4968F887A07F8327546DAE0",
+      "RandomIDCount" : 31,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-28 21:35:18 +0900"
+    },
+    {
+      "Hash" : "37894A1270CCE316EE88AE9BE2ED601FFFDCDF972A1F885686727C1A36DDE65C",
+      "RandomIDCount" : 30,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-28 21:35:18 +0900"
+    },
+    {
+      "Hash" : "773D4B072477D87B90433C0026D00F9BD844D83D0ABAEE60AF73534573D892B8",
+      "RandomIDCount" : 30,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-28 21:35:18 +0900"
+    },
+    {
+      "Hash" : "A17C267D504F5C9916346B0B6965FE44FB9330DCC64E0E137B6463C2554A6E96",
+      "RandomIDCount" : 29,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-28 21:35:18 +0900"
+    },
+    {
+      "Hash" : "55902D3B68716F442E95C4C39921D72FF4BFA8E64C288CBFDD12E4377E7A9FEF",
+      "RandomIDCount" : 35,
+      "MatchCount" : 0,
+      "DataSource" : "jp.go.mhlw.covid19radar",
+      "Timestamp" : "2020-08-28 21:35:18 +0900"
+    }
+  ],
+  "DeviceProductType" : "iPhone8,4"
+}
